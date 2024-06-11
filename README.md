@@ -11,25 +11,25 @@ Network Security<br>June 2024
 <br>
 
 ## Table of Contents
-### [Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm](/Unit01/)
+### [Unit 1 - History of Network Security, Vulnerabilities and Approaches](https://www.my-course.co.uk/course/view.php?id=11879&section=7)
 - Codio activities
 - e-Portfolio activities
 - Collaborative discussion 1 - Initial post
 
-### [Unit 2](/Unit02/) - [Object Oriented Analysis - Initial Steps towards Programming in Python](https://www.my-course.co.uk/course/view.php?id=11400&section=9)
+### [Unit 2](/Unit02/) - [Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study](https://www.my-course.co.uk/course/view.php?id=11879&section=8)
 - Codio and Optional Extension activities
 - Collaborative discussion 1 - Peer responses
 
-### [Unit 3](/Unit03/) - [Unified Modelling Language (UML)](https://www.my-course.co.uk/course/view.php?id=11400&section=10)
+### [Unit 3](/Unit03/) - [Vulnerability Assessments](https://www.my-course.co.uk/course/view.php?id=11879&section=9)
 - e-Portfolio activities
 - Collaborative discussion 1 - Summary post
 
-### [Unit 4](/Unit04/) - [Applying a UML Model to a Program Implementation: UML in Practice](https://www.my-course.co.uk/course/view.php?id=11400&section=11)
+### [Unit 4](/Unit04/) - [Breach Analysis and Mitigation](https://www.my-course.co.uk/course/view.php?id=11879&section=10)
 - No activities
 
-### [Unit 5](/Unit05/) - [More on Classes](https://www.my-course.co.uk/course/view.php?id=11400&section=12)
+### [Unit 5](/Unit05/) - [Logging, Forensics and Future Trends](https://www.my-course.co.uk/course/view.php?id=11879&section=11)
 - Codio activities
 - e-Portfolio activities
 
-### [Unit 6](/Unit06/) - [Abstract Methods and Interfaces](https://www.my-course.co.uk/course/view.php?id=11400&section=13)
+### [Unit 6](/Unit06/) - [The Future of the Internet and Generative AI](https://www.my-course.co.uk/course/view.php?id=11879&section=12)
 - Codio activities
