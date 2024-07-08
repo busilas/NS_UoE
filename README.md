@@ -13,7 +13,7 @@ Network Security<br>June 2024
 ## Table of Contents
 ### [Unit 1 - History of Network Security, Vulnerabilities and Approaches](https://www.my-course.co.uk/course/view.php?id=11879&section=7)
 - Collaborative Discussion 1 - Digitalisation – What are the Security Implications of the Digital Economy?
-- Activity - Website Choice Instructions
+- Activity - Website Choice
 
 ### [Unit 2](/Unit02/) - [Advanced Persistent Threats: Applying the Cyber Kill Chain Model to a Case Study](https://www.my-course.co.uk/course/view.php?id=11879&section=8)
 - Collaborative Discussion 1 - Peer responses
